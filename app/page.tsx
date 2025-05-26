@@ -16,6 +16,11 @@ import {Popover, PopoverContent, PopoverTrigger} from '@/components/ui/popover';
 
 const frameworks = [
   {
+    value: 'WMPVT_Winmart Phan Văn Trị',
+    label: 'WMPVT_Winmart Phan Văn Trị',
+    link: 'https://docs.google.com/spreadsheets/d/1gyJGY202HRQhQFEHgLpldSOwKuEK2o_AFuJmeveKuUc',
+  },
+  {
     value: 'WMQT_Winmart Quang Trung',
     label: 'WMQT_Winmart Quang Trung',
     link: 'https://docs.google.com/spreadsheets/d/1XNxIVC8NaUMh2SbSE3rrEicoT4IABVJEMxYnGi48U_U',
