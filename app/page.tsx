@@ -235,6 +235,11 @@ const frameworks = [
     label: 'WML81_Winmart Landmark 81',
     link: 'https://docs.google.com/spreadsheets/d/1blvvR1RSI2Iq9lyVs8yfPNKzJV81KoSPdJwuuKe3rv0',
   },
+  {
+    value: 'WMTUH_WinMart Tuy Hòa',
+    label: 'WMTUH_WinMart Tuy Hòa',
+    link: 'https://docs.google.com/spreadsheets/d/10lSdLFLylE7UNyGmyh2ZnNa8wsX-yQdwAX06gMUZQ5o/edit?gid=428576541#gid=428576541',
+  },
 ];
 
 export default function ComboboxDemo() {
