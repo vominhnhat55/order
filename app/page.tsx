@@ -253,7 +253,9 @@ export default function ComboboxDemo() {
 
   return (
     <div className='flex flex-col items-center justify-center h-screen'>
-      <h1 className='text-2xl font-bold my-4'>Chọn Điểm bán để đặt hàng</h1>
+      <h1 className='text-2xl font-bold my-4'>
+        Hãy nhập và chọn điểm bán bạn đang phụ trách.
+      </h1>
       <Popover open={open} onOpenChange={setOpen}>
         <PopoverTrigger asChild>
           <Button
