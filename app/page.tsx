@@ -14,6 +14,7 @@ import {
 } from '@/components/ui/command';
 import {Popover, PopoverContent, PopoverTrigger} from '@/components/ui/popover';
 import {frameworks} from './data';
+import Image from 'next/image';
 
 export default function ComboboxDemo() {
   const [open, setOpen] = useState(false);
@@ -25,10 +26,19 @@ export default function ComboboxDemo() {
   } | null>(null);
 
   return (
-    <div className='flex flex-col items-center justify-center h-screen'>
+    <div className='flex flex-col items-center justify-center h-screen gap-3'>
+      <Image
+        src='/images/nutty.png'
+        alt='logo'
+        width={100}
+        height={100}
+        priority
+        className='w-auto h-auto'
+      />
       <h1 className='text-2xl font-bold my-4'>
         Hãy nhập và chọn điểm bán bạn đang phụ trách.
       </h1>
+
       <Popover open={open} onOpenChange={setOpen}>
         <PopoverTrigger asChild>
           <Button
@@ -73,11 +83,17 @@ export default function ComboboxDemo() {
           </Command>
         </PopoverContent>
       </Popover>
-      <a href={framework?.link} target='_blank' rel='noopener noreferrer'>
-        <Button className='cursor-pointer  mt-2 h-10'>
-          {framework?.label ? framework?.label : 'Chọn điểm bán'}
-        </Button>
-      </a>
+      <h2 className='font-semibold text-xl '>
+        Điểm bán :{' '}
+        <span className='text-red-600 font-semibold'> {framework?.label} </span>
+      </h2>
+      {framework?.link ? (
+        <a href={framework?.link} target='_blank' rel='noopener noreferrer'>
+          <Button className='cursor-pointer  mt-2 h-10'>
+            Đi đến phiếu đặt hàng
+          </Button>
+        </a>
+      ) : null}
     </div>
   );
 }
