@@ -147,7 +147,7 @@ export const frameworks = [
   {
     value: 'WMLA_Winmart Long An',
     label: 'WMLA_Winmart Long An',
-    link: 'https://docs.google.com/spreadsheets/d/1hHZbCsrN9zF-LWir_2XM70czGM0cjaJJETMWxT-XuJ4',
+    link: 'https://docs.google.co☺m/spreadsheets/d/1hHZbCsrN9zF-LWir_2XM70czGM0cjaJJETMWxT-XuJ4',
   },
   {
     value: 'WMNL_Winmart Nam Long',
@@ -913,5 +913,10 @@ export const frameworks = [
     value: 'CSCT_Coop SCA Cao Thắng',
     label: 'CSCT_Coop SCA Cao Thắng',
     link: 'https://docs.google.com/spreadsheets/d/1vyMYSO0mhXDQPz4jMkwihwKv_kQFTdDBNY721lUTLXE/edit',
+  },
+  {
+    value: 'CMLTK_CoopMart Lý Thường Kiệt ',
+    label: 'CMLTK_CoopMart Lý Thường Kiệt ',
+    link: 'https://docs.google.com/spreadsheets/d/1Q-1WmmYoA1udqA-aBLz8bT1esBnJ2620oGmX7N7SnlM/edit?gid=1946423415#gid=1946423415',
   },
 ];
