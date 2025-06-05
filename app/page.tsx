@@ -35,7 +35,7 @@ export default function ComboboxDemo() {
         priority
         className='w-auto h-auto'
       />
-      <h1 className='text-2xl font-bold my-4'>
+      <h1 className='text-2xl font-bold my-4 text-center'>
         Hãy nhập và chọn điểm bán bạn đang phụ trách.
       </h1>
 
