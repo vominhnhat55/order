@@ -2464,4 +2464,9 @@ export const frameworks = [
     label: 'CMDP_CoopMart Đức Phổ',
     link: 'https://docs.google.com/spreadsheets/d/19dBa7N6-P3J8ZLfJNLE5x1Nuors2UH29yV3GcIqPu54/edit?gid=1091582361#gid=1091582361',
   },
+  {
+    value: 'TAC_Tops Âu Cơ',
+    label: 'TAC_Tops Âu Cơ',
+    link: 'https://docs.google.com/spreadsheets/d/18syo_83xcoFlOAFIQqXID4Lu9qE4QGLulaXggFLxoO0/edit?gid=924082672#gid=924082672',
+  },
 ];
