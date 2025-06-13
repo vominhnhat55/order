@@ -2459,4 +2459,9 @@ export const frameworks = [
     label: 'CF27_CoopFood BH Nguyễn Văn Tiên',
     link: 'https://docs.google.com/spreadsheets/d/1QaN-3v1lklE0A3xtWArXzo-lUtcMwMuTC-thbOz2mVs',
   },
+  {
+    value: 'CMDP_CoopMart Đức Phổ',
+    label: 'CMDP_CoopMart Đức Phổ',
+    link: 'https://docs.google.com/spreadsheets/d/19dBa7N6-P3J8ZLfJNLE5x1Nuors2UH29yV3GcIqPu54/edit?gid=1091582361#gid=1091582361',
+  },
 ];
