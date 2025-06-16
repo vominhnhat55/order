@@ -147,7 +147,7 @@ export const frameworks = [
   {
     value: 'WMLA_Winmart Long An',
     label: 'WMLA_Winmart Long An',
-    link: 'https://docs.google.co☺m/spreadsheets/d/1hHZbCsrN9zF-LWir_2XM70czGM0cjaJJETMWxT-XuJ4',
+    link: 'https://docs.google.com/spreadsheets/d/1hHZbCsrN9zF-LWir_2XM70czGM0cjaJJETMWxT-XuJ4',
   },
   {
     value: 'WMNL_Winmart Nam Long',
