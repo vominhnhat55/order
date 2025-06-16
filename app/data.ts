@@ -2469,4 +2469,9 @@ export const frameworks = [
     label: 'TAC_Tops Âu Cơ',
     link: 'https://docs.google.com/spreadsheets/d/18syo_83xcoFlOAFIQqXID4Lu9qE4QGLulaXggFLxoO0/edit?gid=924082672#gid=924082672',
   },
+  {
+    value: 'GOBD_ GO Bình Dương',
+    label: 'GOBD_ GO Bình Dương',
+    link: 'https://docs.google.com/spreadsheets/d/1tW7VH37cz1AVdfPB8VyniL8Le5DdguD84dUjH0kR_Lo/edit?gid=2144338688#gid=2144338688',
+  },
 ];
