@@ -147,7 +147,7 @@ export const frameworks = [
   {
     value: 'WMLA_Winmart Long An',
     label: 'WMLA_Winmart Long An',
-    link: 'https://docs.google.co☺m/spreadsheets/d/1hHZbCsrN9zF-LWir_2XM70czGM0cjaJJETMWxT-XuJ4',
+    link: 'https://docs.google.com/spreadsheets/d/1hHZbCsrN9zF-LWir_2XM70czGM0cjaJJETMWxT-XuJ4',
   },
   {
     value: 'WMNL_Winmart Nam Long',
@@ -2470,8 +2470,13 @@ export const frameworks = [
     link: 'https://docs.google.com/spreadsheets/d/18syo_83xcoFlOAFIQqXID4Lu9qE4QGLulaXggFLxoO0/edit?gid=924082672#gid=924082672',
   },
   {
-    value: 'GOBD_ GO Bình Dương',
-    label: 'GOBD_ GO Bình Dương',
+    value: 'GOBD_GO Bình Dương',
+    label: 'GOBD_GO Bình Dương',
     link: 'https://docs.google.com/spreadsheets/d/1tW7VH37cz1AVdfPB8VyniL8Le5DdguD84dUjH0kR_Lo/edit?gid=2144338688#gid=2144338688',
+  },
+  {
+    value: 'GOPT_GO Phú Thạnh',
+    label: 'GOPT_GO Phú Thạnh',
+    link: 'https://docs.google.com/spreadsheets/d/1fXjYY5m4kvXq9ucyC_5pdWWjgfq4TXBSkpD16oUJIfw/edit?gid=1946423415#gid=1946423415',
   },
 ];
