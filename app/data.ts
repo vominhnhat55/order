@@ -2474,4 +2474,9 @@ export const frameworks = [
     label: 'GOBD_ GO Bình Dương',
     link: 'https://docs.google.com/spreadsheets/d/1tW7VH37cz1AVdfPB8VyniL8Le5DdguD84dUjH0kR_Lo/edit?gid=2144338688#gid=2144338688',
   },
+  {
+    value: 'GOPT_GO Phú Thạnh',
+    label: 'GOPT_GO Phú Thạnh',
+    link: 'https://docs.google.com/spreadsheets/d/1fXjYY5m4kvXq9ucyC_5pdWWjgfq4TXBSkpD16oUJIfw/edit?gid=1946423415#gid=1946423415',
+  },
 ];
