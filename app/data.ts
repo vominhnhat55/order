@@ -2479,4 +2479,9 @@ export const frameworks = [
     label: 'GOPT_GO Phú Thạnh',
     link: 'https://docs.google.com/spreadsheets/d/1fXjYY5m4kvXq9ucyC_5pdWWjgfq4TXBSkpD16oUJIfw/edit?gid=1946423415#gid=1946423415',
   },
+  {
+    value: 'MMAP_Mega An Phú',
+    label: 'MMAP_Mega An Phú',
+    link: 'https://docs.google.com/spreadsheets/d/14kX8ztKuaNGwDaZUHQQz3dgs1KZWdxjY59e6wwkPx3c/edit?gid=589735320#gid=589735320',
+  },
 ];
