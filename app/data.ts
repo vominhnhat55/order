@@ -2484,4 +2484,9 @@ export const frameworks = [
     label: 'MMAP_Mega An Phú',
     link: 'https://docs.google.com/spreadsheets/d/14kX8ztKuaNGwDaZUHQQz3dgs1KZWdxjY59e6wwkPx3c/edit?gid=589735320#gid=589735320',
   },
+  {
+    value: 'GOTAH_GO Tân Hiệp',
+    label: 'GOTAH_GO Tân Hiệp',
+    link: 'https://docs.google.com/spreadsheets/d/15Nyv4jkj9U0xYz4Tm35dx_kEP5opQ8pkmndB36Wom4s/edit?gid=930975253#gid=930975253',
+  },
 ];
