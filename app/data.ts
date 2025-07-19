@@ -2489,4 +2489,14 @@ export const frameworks = [
     label: 'GOTAH_GO Tân Hiệp',
     link: 'https://docs.google.com/spreadsheets/d/15Nyv4jkj9U0xYz4Tm35dx_kEP5opQ8pkmndB36Wom4s/edit?gid=930975253#gid=930975253',
   },
+  {
+    value: 'CFDBL_CoopFood Đinh Bộ Lĩnh 81',
+    label: 'CFDBL_CoopFood Đinh Bộ Lĩnh 81',
+    link: 'https://docs.google.com/spreadsheets/d/1AlK7bNM9Kpf0hzrAr2LZWrjzn7RE3RFLXvRlEfY6OsU/edit?gid=816906596#gid=816906596',
+  },
+  {
+    value: 'CFLG_CoopFood CC Lux Garden(Q7)',
+    label: 'CFLG_CoopFood CC Lux Garden(Q7)',
+    link: 'https://docs.google.com/spreadsheets/d/1Z_a4PU2pBbOzijV5oZ67CKSuLBkPwXHXaeGDRu7uO_U/edit?gid=1682521311#gid=1682521311',
+  },
 ];
