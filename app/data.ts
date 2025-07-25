@@ -2499,4 +2499,14 @@ export const frameworks = [
     label: 'CFLG_CoopFood CC Lux Garden(Q7)',
     link: 'https://docs.google.com/spreadsheets/d/1Z_a4PU2pBbOzijV5oZ67CKSuLBkPwXHXaeGDRu7uO_U/edit?gid=1682521311#gid=1682521311',
   },
+  {
+    value: 'MMBIP_MM Mega Bình Phú',
+    label: 'MMBIP_MM Mega Bình Phú',
+    link: 'https://docs.google.com/spreadsheets/d/1zzv5PCyw7oRcHW-a2ONMrnU3QsiiAsCmPKtsb35ECw8/edit?gid=1261898504#gid=1261898504',
+  },
+  {
+    value: 'MMHIP_MM Mega Hiệp Phú',
+    label: 'MMHIP_MM Mega Hiệp Phú',
+    link: 'https://docs.google.com/spreadsheets/d/1VOClc2ii_0K-XZAmovcRgtrvx41VJw3TYZ4LimDnlsk/edit?gid=599869960#gid=599869960',
+  },
 ];
