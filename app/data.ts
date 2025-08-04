@@ -950,11 +950,6 @@ export const frameworks = [
     link: 'https://docs.google.com/spreadsheets/d/1dCksYi1WWmEnT8_9RIZSnCNkGQIfu3rDQPYbamjtFbI',
   },
   {
-    value: 'CFHD_CoopFood Hà Đô (Gò Vấp)',
-    label: 'CFHD_CoopFood Hà Đô (Gò Vấp)',
-    link: 'https://docs.google.com/spreadsheets/d/1fhrmiOxushYnaiPD5g9E7LqvG5nyHsqTJ7tl-HxaMoM',
-  },
-  {
     value: 'CFTC_CoopFood PY Trường Chinh (Tuy Hòa)',
     label: 'CFTC_CoopFood PY Trường Chinh (Tuy Hòa)',
     link: 'https://docs.google.com/spreadsheets/d/15oqspJ9VloSHYnpi3O4JrPtuW1OSrVT5sAiJ-rUr3Oc',
