@@ -2509,4 +2509,19 @@ export const frameworks = [
     label: 'MMHIP_MM Mega Hiệp Phú',
     link: 'https://docs.google.com/spreadsheets/d/1VOClc2ii_0K-XZAmovcRgtrvx41VJw3TYZ4LimDnlsk/edit?gid=599869960#gid=599869960',
   },
+  {
+    value: 'CFVIL_CoopFood Vĩnh Lộc (Bình Chánh)',
+    label: 'CFVIL_CoopFood Vĩnh Lộc (Bình Chánh)',
+    link: 'https://docs.google.com/spreadsheets/d/1e4GOl6v_h4bKLBrqJ-lnbLdA4Z7v5bHMtzs0TBzKjCc/edit?gid=1878029355#gid=1878029355',
+  },
+  {
+    value: 'CFVAC_CoopFood Phạm Văn Chiêu (Gò Vấp)',
+    label: 'CFVAC_CoopFood Phạm Văn Chiêu (Gò Vấp)',
+    link: 'https://docs.google.com/spreadsheets/d/1qcovDuESa_wJylhsVS8v8AYld3NjGV_oIfdHVInS18k/edit?gid=1878029355#gid=1878029355',
+  },
+  {
+    value: 'CFQ13_CoopFood Quốc Lộ 13 cũ (Thủ Đức)',
+    label: 'CFQ13_CoopFood Quốc Lộ 13 cũ (Thủ Đức)',
+    link: 'https://docs.google.com/spreadsheets/d/1nPXBqJxdEB13baj8t7mjDZBVIDP-WK8S-NMWLLgRpOw/edit?gid=1878029355#gid=1878029355',
+  },
 ];
