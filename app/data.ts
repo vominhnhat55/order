@@ -2519,4 +2519,14 @@ export const frameworks = [
     label: 'CFQ13_CoopFood Quốc Lộ 13 cũ (Thủ Đức)',
     link: 'https://docs.google.com/spreadsheets/d/1nPXBqJxdEB13baj8t7mjDZBVIDP-WK8S-NMWLLgRpOw/edit?gid=1878029355#gid=1878029355',
   },
+  {
+    value: 'MMBH_MM Mega Biên Hòa',
+    label: 'MMBH_MM Mega Biên Hòa',
+    link: 'https://docs.google.com/spreadsheets/d/1jIiGmg_vFRkod4GYK8JUl0mYp9Rcv9QXtJTosHnB5j4/edit?gid=930975253#gid=930975253',
+  },
+  {
+    value: 'CMHTH_Coopmart Hiệp Thành ',
+    label: 'CMHTH_Coopmart Hiệp Thành ',
+    link: 'https://docs.google.com/spreadsheets/d/1MJbE09uHv0UKm5loMAmtHC8CEQDcI1Qbqu2knmw4d_0/edit?gid=2106524372#gid=2106524372',
+  },
 ];
