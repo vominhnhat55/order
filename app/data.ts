@@ -2525,8 +2525,33 @@ export const frameworks = [
     link: 'https://docs.google.com/spreadsheets/d/1jIiGmg_vFRkod4GYK8JUl0mYp9Rcv9QXtJTosHnB5j4/edit?gid=930975253#gid=930975253',
   },
   {
-    value: 'CMHTH_Coopmart Hiệp Thành ',
-    label: 'CMHTH_Coopmart Hiệp Thành ',
+    value: 'CMHTH_Coopmart Hiệp Thành',
+    label: 'CMHTH_Coopmart Hiệp Thành',
     link: 'https://docs.google.com/spreadsheets/d/1MJbE09uHv0UKm5loMAmtHC8CEQDcI1Qbqu2knmw4d_0/edit?gid=2106524372#gid=2106524372',
+  },
+  {
+    value: 'MMHUP_MM Mega Food Service Hưng Phú',
+    label: 'MMHUP_MM Mega Food Service Hưng Phú',
+    link: 'https://docs.google.com/spreadsheets/d/1VSqgYfLxAjAOIpf9br8XJou2tPtXj4gNGaf4DJ1FYGE/edit?gid=589735320#gid=589735320',
+  },
+  {
+    value: 'MMDNG_MM Mega Đà Nẵng',
+    label: 'MMDNG_MM Mega Đà Nẵng',
+    link: 'https://docs.google.com/spreadsheets/d/1gtMvBxpkvjF85tkDiI3if7gHURA9gDJavvznSbG8JyI/edit?gid=434661422#gid=434661422',
+  },
+  {
+    value: 'MMHUL_MM Mega Hưng Lợi',
+    label: 'MMHUL_MM Mega Hưng Lợi',
+    link: 'https://docs.google.com/spreadsheets/d/1OUO1Tiilr5ZhfbUHQZc_kN7acMqlZtYbGjQIPQ1RNXA/edit?gid=1529026772#gid=1529026772',
+  },
+  {
+    value: 'MMLX_MM Mega Long Xuyên',
+    label: 'MMLX_MM Mega Long Xuyên',
+    link: 'https://docs.google.com/spreadsheets/d/1-x8Xz9AYKsWRkQTPkwZH-OrbVoOJXELOB5dWZKmsg8g/edit?gid=153411456#gid=153411456',
+  },
+  {
+    value: 'MMLX_MM Mega Rạch Giá',
+    label: 'MMLX_MM Mega Rạch Giá',
+    link: 'https://docs.google.com/spreadsheets/d/134rdxHOjVnhrv41VmwHI-A9NgnS6SYmaSThCO_BOaDc/edit?gid=104433136#gid=104433136',
   },
 ];
