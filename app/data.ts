@@ -920,36 +920,6 @@ export const frameworks = [
     link: 'https://docs.google.com/spreadsheets/d/1Q-1WmmYoA1udqA-aBLz8bT1esBnJ2620oGmX7N7SnlM/edit?gid=1946423415#gid=1946423415',
   },
   {
-    value: 'CFHBP_CoopFood Hiệp Bình Phước (Thủ Đức)',
-    label: 'CFHBP_CoopFood Hiệp Bình Phước (Thủ Đức)',
-    link: 'https://docs.google.com/spreadsheets/d/1qxkTrPllTEM9xswCvpMQCLrVbw8s5YchUV1M8ARCZeg',
-  },
-  {
-    value: 'CFDVB_CoopFood Đặng Văn Bi (Q9)',
-    label: 'CFDVB_CoopFood Đặng Văn Bi (Q9)',
-    link: 'https://docs.google.com/spreadsheets/d/1z51_DFfE3Pb9l_nLh-Bn8AFBUJ4_AE4H7WHU61LR--o',
-  },
-  {
-    value: 'CFTP_CoopFood Tam Phú (Thủ Đức)',
-    label: 'CFTP_CoopFood Tam Phú (Thủ Đức)',
-    link: 'https://docs.google.com/spreadsheets/d/1KuyV5qWupUSNfRH_4056cWEGRr0BCYoT1Fn6GKmFHgc',
-  },
-  {
-    value: 'CF280_CoopFood 280 Man Thiện (Q9)',
-    label: 'CF280_CoopFood 280 Man Thiện (Q9)',
-    link: 'https://docs.google.com/spreadsheets/d/166DhaN5SyhtNyTRzhzfjVMKmjKZy7v1bPz6Dw5kXeYk',
-  },
-  {
-    value: 'CFTTH_CoopFood Tân Thới Hiệp (Q12)',
-    label: 'CFTTH_CoopFood Tân Thới Hiệp (Q12)',
-    link: 'https://docs.google.com/spreadsheets/d/1KELiSMcoL2UVifIJtnrk_FZNps3mfr6QIyficiyML5w',
-  },
-  {
-    value: 'CFLT_CoopFood Linh Trung (Thủ Đức)',
-    label: 'CFLT_CoopFood Linh Trung (Thủ Đức)',
-    link: 'https://docs.google.com/spreadsheets/d/1dCksYi1WWmEnT8_9RIZSnCNkGQIfu3rDQPYbamjtFbI',
-  },
-  {
     value: 'CFTC_CoopFood PY Trường Chinh (Tuy Hòa)',
     label: 'CFTC_CoopFood PY Trường Chinh (Tuy Hòa)',
     link: 'https://docs.google.com/spreadsheets/d/15oqspJ9VloSHYnpi3O4JrPtuW1OSrVT5sAiJ-rUr3Oc',
