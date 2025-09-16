@@ -1135,11 +1135,6 @@ export const frameworks = [
     link: 'https://docs.google.com/spreadsheets/d/1s6zvO4cQ7NQwVG_Kzj6CN4rZ54ufQLV39n_F62szmMY',
   },
   {
-    value: 'CFHT_CoopFood BD KDC Hiệp Thành 3',
-    label: 'CFHT_CoopFood BD KDC Hiệp Thành 3',
-    link: 'https://docs.google.com/spreadsheets/d/19DP2Nn1jXp15KUgeR9hq91JIBb2S2LDwPNlqNw2fUkM',
-  },
-  {
     value: 'CFHHT_CoopFood PY Hòa Hiệp Trung (Tuy Hòa)',
     label: 'CFHHT_CoopFood PY Hòa Hiệp Trung (Tuy Hòa)',
     link: 'https://docs.google.com/spreadsheets/d/1bVg0clWb7pq6SVi_7Q3-C9P9FcdMinescFE6YruGwZM',
@@ -2523,5 +2518,35 @@ export const frameworks = [
     value: 'MMLX_MM Mega Rạch Giá',
     label: 'MMLX_MM Mega Rạch Giá',
     link: 'https://docs.google.com/spreadsheets/d/134rdxHOjVnhrv41VmwHI-A9NgnS6SYmaSThCO_BOaDc/edit?gid=104433136#gid=104433136',
+  },
+  {
+    value: 'CFTTN_CoopFood Tân Thới Nhất 2',
+    label: 'CFTTN_CoopFood Tân Thới Nhất 2',
+    link: 'https://docs.google.com/spreadsheets/d/1DXHMWtxeqYR3A_qbNRZgkdq4mjb0qPePP0OhbcDJTDc',
+  },
+  {
+    value: 'CFPKD_CoopFood CC The Privia Khang Điền',
+    label: 'CFPKD_CoopFood CC The Privia Khang Điền',
+    link: 'https://docs.google.com/spreadsheets/d/1TOir4I7_eEtX7Si1SQBoRIJB2kOam5JxMAxTKxBPuu0',
+  },
+  {
+    value: 'CFDHT_CoopFood Đông Hưng Thuận 2',
+    label: 'CFDHT_CoopFood Đông Hưng Thuận 2',
+    link: 'https://docs.google.com/spreadsheets/d/15qWZSLtRbbDZYcu2rABEL1g2B9WXneRNi-VmP0Q3xHM',
+  },
+  {
+    value: 'CFNL_CoopFood Khu Nam Long',
+    label: 'CFNL_CoopFood Khu Nam Long',
+    link: 'https://docs.google.com/spreadsheets/d/1ccdHcXiYuXJyfDzgjwW1tfhErc4OSq2yK3cfZh4xZEI',
+  },
+  {
+    value: 'CFAK9_CoopFood CC Akari AK9',
+    label: 'CFAK9_CoopFood CC Akari AK9',
+    link: 'https://docs.google.com/spreadsheets/d/1H-hvvxWduB1NdYDD_mXBW_zTd2Dwgq50y9BgrYy7DTw',
+  },
+  {
+    value: 'CFLBH_CoopFood Liêu Bình Hương',
+    label: 'CFLBH_CoopFood Liêu Bình Hương',
+    link: 'https://docs.google.com/spreadsheets/d/1TOC2KqtarmAAoWWwFEljp8jvfXzXQGWavy2qE0x-Lok',
   },
 ];
