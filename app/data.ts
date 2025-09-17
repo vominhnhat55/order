@@ -2549,4 +2549,34 @@ export const frameworks = [
     label: 'CFLBH_CoopFood Liêu Bình Hương',
     link: 'https://docs.google.com/spreadsheets/d/1TOC2KqtarmAAoWWwFEljp8jvfXzXQGWavy2qE0x-Lok',
   },
+  {
+    value: 'CFCUL_CoopFood Cửu Long',
+    label: 'CFCUL_CoopFood Cửu Long',
+    link: 'https://docs.google.com/spreadsheets/d/1-87Q7YSUbLmRSNdHnu-2G9wHt631oW0Na8qhj7EbRGI',
+  },
+  {
+    value: 'CFBIC_CoopFood Bình Chiểu 72 (Thủ Đức)',
+    label: 'CFBIC_CoopFood Bình Chiểu 72 (Thủ Đức)',
+    link: 'https://docs.google.com/spreadsheets/d/12-nNHCcwJAb9CeoA3NOnUUaskNEe9u3BuskhhvfOK4A',
+  },
+  {
+    value: 'CFNCQ_CoopFood Ngô Chí Quốc',
+    label: 'CFNCQ_CoopFood Ngô Chí Quốc',
+    link: 'https://docs.google.com/spreadsheets/d/1Fj--iIPTj7GA7L-nnZ9l1UXKTLM6-DbkRktPX8E_Y5g',
+  },
+  {
+    value: 'CFLL2_CoopFood Lê Văn Lương 219',
+    label: 'CFLL2_CoopFood Lê Văn Lương 219',
+    link: 'https://docs.google.com/spreadsheets/d/1G5qYuGOHDHFaLvB9x3yFvwpWm98j9J5wKRC1mj7TSMY',
+  },
+  {
+    value: 'CFDHO_CoopFood CC Dream Home',
+    label: 'CFDHO_CoopFood CC Dream Home',
+    link: 'https://docs.google.com/spreadsheets/d/1KxW9HfrMksNOTypUA2JSjUvdv49yf2t0Hb4IRsdNyX0',
+  },
+  {
+    value: 'CFDTT_CoopFood Đặng Thùy Trâm',
+    label: 'CFDTT_CoopFood Đặng Thùy Trâm',
+    link: 'https://docs.google.com/spreadsheets/d/1u6Fa34r2BDzl9iKGmOEoBIGDzqZp2FkEfVTlt-PG8M8',
+  },
 ];
