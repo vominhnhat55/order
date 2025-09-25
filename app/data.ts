@@ -2579,9 +2579,5 @@ export const frameworks = [
     label: 'CFDTT_CoopFood Đặng Thùy Trâm',
     link: 'https://docs.google.com/spreadsheets/d/1u6Fa34r2BDzl9iKGmOEoBIGDzqZp2FkEfVTlt-PG8M8',
   },
-  {
-    value: 'CFCUL_CoopFood Cửu Long',
-    label: 'CFCUL_CoopFood Cửu Long',
-    link: 'https://docs.google.com/spreadsheets/d/1-87Q7YSUbLmRSNdHnu-2G9wHt631oW0Na8qhj7EbRGI'
-  },
-];
+ ]
+ 
