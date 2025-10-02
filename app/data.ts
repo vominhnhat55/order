@@ -2532,7 +2532,7 @@ export const frameworks = [
   {
     value: 'CFDHT_CoopFood Đông Hưng Thuận 2',
     label: 'CFDHT_CoopFood Đông Hưng Thuận 2',
-    link: 'https://docs.google.com/spreadsheets/d/15qWZSLtRbbDZYcu2rABEL1g2B9WXneRNi-VmP0Q3xHM',
+    link: 'https://docs.google.com/spreadsheets/d/1rqrgNsmin3Y80yqNeWGT__DBFgHox3DonkvOzF9whBE/edit?usp=sharing',
   },
   {
     value: 'CFNL_CoopFood Khu Nam Long',
@@ -2579,5 +2579,6 @@ export const frameworks = [
     label: 'CFDTT_CoopFood Đặng Thùy Trâm',
     link: 'https://docs.google.com/spreadsheets/d/1u6Fa34r2BDzl9iKGmOEoBIGDzqZp2FkEfVTlt-PG8M8',
   },
+
+  // thêm chỗ này nha anh Trà.
  ]
- 
