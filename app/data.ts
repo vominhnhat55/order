@@ -2579,6 +2579,20 @@ export const frameworks = [
     label: 'CFDTT_CoopFood Đặng Thùy Trâm',
     link: 'https://docs.google.com/spreadsheets/d/1u6Fa34r2BDzl9iKGmOEoBIGDzqZp2FkEfVTlt-PG8M8',
   },
-
+  {
+    value: 'CFTA_CoopFood Thới An',
+    label: 'CFTA_CoopFood Thới An',
+    link: 'https://docs.google.com/spreadsheets/d/1cJJcByxZkv2coThMxGHlVpKHkwRxUwkS7N_j2MO7IEA',
+  },
+  {
+    value: 'CFTT3_CoopFood Tân Thạnh Tây',
+    label: 'CFTT3_CoopFood Tân Thạnh Tây',
+    link: 'https://docs.google.com/spreadsheets/d/1LxayH63eutFNcRX4Mgf4uG9W-yymOHHXk2Wf3KkW_tE',
+  },
+  {
+    value: 'CFT19_CoopFood Thanh Lộc 19',
+    label: 'CFT19_CoopFood Thanh Lộc 19',
+    link: 'https://docs.google.com/spreadsheets/d/1zhRLvrPSw6RyTE45ZOIzj0vT8yLqNMsUR6JrshYGVDQ',
+  },
   // thêm chỗ này nha anh Trà.
  ]
