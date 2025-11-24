@@ -2594,5 +2594,14 @@ export const frameworks = [
     label: 'CFT19_CoopFood Thanh Lộc 19',
     link: 'https://docs.google.com/spreadsheets/d/1zhRLvrPSw6RyTE45ZOIzj0vT8yLqNMsUR6JrshYGVDQ',
   },
+  {
+    value: 'CFCG_CoopFood  TN Cần Giuộc',
+    label: 'CFCG_CoopFood  TN Cần Giuộc',
+    link: 'https://docs.google.com/spreadsheets/d/1T8XcZeSFRc5f1Q1iDnEntViexXnNlOPcy-JnieLtSvw',
+  },
+  {
+    value: 'CFND_CoopFood Nguyễn Du',
+    label: 'CFND_CoopFood Nguyễn Du',
+    link: 'https://docs.google.com/spreadsheets/d/1qF-GfWdbR2d1R9BIqnLYPEdOQqCR4gSQd_o7-G8YkiE',
+  },
   // thêm chỗ này nha anh Trà.
- ]
