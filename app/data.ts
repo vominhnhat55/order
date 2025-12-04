@@ -2604,4 +2604,10 @@ export const frameworks = [
     label: 'CFND_CoopFood Nguyễn Du',
     link: 'https://docs.google.com/spreadsheets/d/1qF-GfWdbR2d1R9BIqnLYPEdOQqCR4gSQd_o7-G8YkiE',
   },
+  {
+    value: 'CMTHN_CoopMart Thống Nhất',
+    label: 'CMTHN_CoopMart Thống Nhất',
+    link: 'https://docs.google.com/spreadsheets/d/1KCrLCHoSu9tDN2GLWYaLxHE1_li7AQVKoGJyRSHtku0',
+  }
   // thêm chỗ này nha anh Trà.
+  ]
