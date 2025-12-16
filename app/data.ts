@@ -2595,8 +2595,8 @@ export const frameworks = [
     link: 'https://docs.google.com/spreadsheets/d/1zhRLvrPSw6RyTE45ZOIzj0vT8yLqNMsUR6JrshYGVDQ',
   },
   {
-    value: 'CFCG_CoopFood  TN Cần Giuộc',
-    label: 'CFCG_CoopFood  TN Cần Giuộc',
+    value: 'CFCG_CoopFood TN Cần Giuộc',
+    label: 'CFCG_CoopFood TN Cần Giuộc',
     link: 'https://docs.google.com/spreadsheets/d/1T8XcZeSFRc5f1Q1iDnEntViexXnNlOPcy-JnieLtSvw',
   },
   {
