@@ -2608,6 +2608,21 @@ export const frameworks = [
     value: 'CMTHN_CoopMart Thống Nhất',
     label: 'CMTHN_CoopMart Thống Nhất',
     link: 'https://docs.google.com/spreadsheets/d/1KCrLCHoSu9tDN2GLWYaLxHE1_li7AQVKoGJyRSHtku0',
-  }
+  },
+  {
+    value: 'CFNT_CoopFood BD Nguyễn Văn Tiết',
+    label: 'CFNT_CoopFood BD Nguyễn Văn Tiết',
+    link: 'https://docs.google.com/spreadsheets/d/1ITd5uNfxh9tLLpFiTGFl5xn95foj53PoJv09VWvjHN4',
+  },
+  {
+    value: 'CFVL_CoopFood KDC Vườn Lài',
+    label: 'CFVL_CoopFood KDC Vườn Lài',
+    link: 'https://docs.google.com/spreadsheets/d/17M25PYaYkkvuqsHVvUm1OBxQwKYEocIqcdlST3LN8Cs',
+  },
+   {
+    value: 'CFTQ_CoopFood Tân Kỳ Tân Quý',
+    label: 'CFTQ_CoopFood Tân Kỳ Tân Quý',
+    link: 'https://docs.google.com/spreadsheets/d/1UVBjYe2T4KrXWR9LD2Nufk5Iizzx9RJpLMvYJVVMtIY',
+  },
   // thêm chỗ này nha anh Trà.
   ]
