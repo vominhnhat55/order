@@ -2624,5 +2624,10 @@ export const frameworks = [
     label: 'CFTQ_CoopFood Tân Kỳ Tân Quý',
     link: 'https://docs.google.com/spreadsheets/d/1UVBjYe2T4KrXWR9LD2Nufk5Iizzx9RJpLMvYJVVMtIY',
   },
+     {
+    value: 'CFTAH_CoopFood BD Thuận An Hoà',
+    label: 'CFTAH_CoopFood BD Thuận An Hoà',
+    link: 'https://docs.google.com/spreadsheets/d/1Su96oBL9uwfbLwYyZtF-k006yNO-CSWQcEEFJTe0IxY',
+  },
   // thêm chỗ này nha anh Trà.
   ]
