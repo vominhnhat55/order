@@ -2619,15 +2619,20 @@ export const frameworks = [
     label: 'CFVL_CoopFood KDC Vườn Lài',
     link: 'https://docs.google.com/spreadsheets/d/17M25PYaYkkvuqsHVvUm1OBxQwKYEocIqcdlST3LN8Cs',
   },
-   {
+  {
     value: 'CFTQ_CoopFood Tân Kỳ Tân Quý',
     label: 'CFTQ_CoopFood Tân Kỳ Tân Quý',
     link: 'https://docs.google.com/spreadsheets/d/1UVBjYe2T4KrXWR9LD2Nufk5Iizzx9RJpLMvYJVVMtIY',
   },
-     {
+  {
     value: 'CFTAH_CoopFood BD Thuận An Hoà',
     label: 'CFTAH_CoopFood BD Thuận An Hoà',
     link: 'https://docs.google.com/spreadsheets/d/1Su96oBL9uwfbLwYyZtF-k006yNO-CSWQcEEFJTe0IxY',
   },
+  {
+    value: 'CFN42_CoopFood Nguyễn Văn Tăng 42',
+    label: 'CFN42_CoopFood Nguyễn Văn Tăng 42',
+    link: 'https://docs.google.com/spreadsheets/d/1ZctBcmHoW0JzGU6335zTSLvjPzlPCiRKRGe4mE2KCww',
+  },
   // thêm chỗ này nha anh Trà.
-  ]
+];
