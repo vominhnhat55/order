@@ -2634,5 +2634,20 @@ export const frameworks = [
     label: 'CFN42_CoopFood Nguyễn Văn Tăng 42',
     link: 'https://docs.google.com/spreadsheets/d/1ZctBcmHoW0JzGU6335zTSLvjPzlPCiRKRGe4mE2KCww',
   },
+  {
+    value: 'CFCGD_CoopFood Chợ Giãn Dân',
+    label: 'CFCGD_CoopFood Chợ Giãn Dân',
+    link: 'https://docs.google.com/spreadsheets/d/1vzCfEvkBzFJcnCQM_IfCg8KzeTqbtKH4amaMZ1DJaIc',
+  },
+  {
+    value: 'CFDTR_CoopFood Trịnh Đình Trọng',
+    label: 'CFDTR_CoopFood Trịnh Đình Trọng',
+    link: 'https://docs.google.com/spreadsheets/d/1NiDrFAeHvPVSlyOYNAchn04xCRcl84k8SWRBuEbXXwo',
+  },
+  {
+    value: 'CFHNT_CoopFood Hàn Thuyên',
+    label: 'CFHNT_CoopFood Hàn Thuyên',
+    link: 'https://docs.google.com/spreadsheets/d/1ybCOkiFFQO7aHuW_ldWqizgnscEOKEUIOt-leGsyuE0',
+  },
   // thêm chỗ này nha anh Trà.
 ];
