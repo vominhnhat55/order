@@ -2649,5 +2649,10 @@ export const frameworks = [
     label: 'CFHNT_CoopFood Hàn Thuyên',
     link: 'https://docs.google.com/spreadsheets/d/1ybCOkiFFQO7aHuW_ldWqizgnscEOKEUIOt-leGsyuE0',
   },
+  {
+    value: 'CF682_CoopFood Nguyễn Thị Định 682',
+    label: 'CF682_CoopFood Nguyễn Thị Định 682',
+    link: 'https://docs.google.com/spreadsheets/d/1-mSGPlh-HkpN5P1zPDi_UgRGSBEoqA3R69MSfzZcRV4/edit?gid=1910458636#gid=1910458636',
+  },
   // thêm chỗ này nha anh Trà.
 ];
