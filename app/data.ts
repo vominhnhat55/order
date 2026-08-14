@@ -2654,5 +2654,14 @@ export const frameworks = [
     label: 'CF682_CoopFood Nguyễn Thị Định 682',
     link: 'https://docs.google.com/spreadsheets/d/1-mSGPlh-HkpN5P1zPDi_UgRGSBEoqA3R69MSfzZcRV4/edit?gid=1910458636#gid=1910458636',
   },
-  // thêm chỗ này nha anh Trà.
+  {
+    value: 'CFTQB_CoopFood Tạ Quang Bửu',
+    label: 'CFTQB_CoopFood Tạ Quang Bửu',
+    link: 'https://docs.google.com/spreadsheets/d/1Zn5WXQkU-gkQsKwvBl_zat5o6Mp2Qrb-FYhtprLTRoo',
+  },
+  {
+    value: 'CFBTD_CoopFood Bình Trị Đông',
+    label: 'CFBTD_CoopFood Bình Trị Đông',
+    link: 'https://docs.google.com/spreadsheets/d/1Zn5WXQkU-gkQsKwvBl_zat5o6Mp2Qrb-FYhtprLTRoo',
+  },
 ];
