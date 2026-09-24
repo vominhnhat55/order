@@ -2662,6 +2662,16 @@ export const frameworks = [
   {
     value: 'CFBTD_CoopFood Bình Trị Đông',
     label: 'CFBTD_CoopFood Bình Trị Đông',
+    link: 'https://docs.google.com/spreadsheets/d/1sMHfnMvwTGNgl5py61-Xu7qhPue7LrNw8Bm8n5lEmRE',
+  },
+  {
+    value: 'CFTQB_CoopFood Tạ Quang Bửu',
+    label: 'CFTQB_CoopFood Tạ Quang Bửu',
     link: 'https://docs.google.com/spreadsheets/d/1Zn5WXQkU-gkQsKwvBl_zat5o6Mp2Qrb-FYhtprLTRoo',
+  },
+  {
+    value: 'CFNVS_CoopFood Nguyễn Văn Săng 39',
+    label: 'CFNVS_CoopFood Nguyễn Văn Săng 39',
+    link: 'https://docs.google.com/spreadsheets/d/1q_rg9VQ-QerWjLh0xsQ3GNHznr8oomrY84hph0Irgnk',
   },
 ];
