@@ -2674,4 +2674,9 @@ export const frameworks = [
     label: 'CFNVS_CoopFood Nguyễn Văn Săng 39',
     link: 'https://docs.google.com/spreadsheets/d/1q_rg9VQ-QerWjLh0xsQ3GNHznr8oomrY84hph0Irgnk',
   },
+  {
+    value: 'CFCTH_CoopFood Châu Thị Hoá',
+    label: 'CFCTH_CoopFood Châu Thị Hoá',
+    link: 'https://docs.google.com/spreadsheets/d/1e_R54YTijJL9LozHM9Qwlw6YYdKB-U1nm2OzboZ0Jpg',
+  },
 ];
