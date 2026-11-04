@@ -2679,4 +2679,24 @@ export const frameworks = [
     label: 'CFCTH_CoopFood Châu Thị Hoá',
     link: 'https://docs.google.com/spreadsheets/d/1e_R54YTijJL9LozHM9Qwlw6YYdKB-U1nm2OzboZ0Jpg',
   },
+  {
+    value: 'CFNX_CoopFood Nguyễn Xiển',
+    label: 'CFNX_CoopFood Nguyễn Xiển',
+    link: 'https://docs.google.com/spreadsheets/d/1Nc50tYYeom2qSawR-XAFAzCHfIFmdVzXjdfLaVTckeo9',
+  },
+  {
+    value: 'CFDAQ_CoopFood CC D-Aqua',
+    label: 'CFDAQ_CoopFood CC D-Aqua',
+    link: 'https://docs.google.com/spreadsheets/d/1OzUuQmie2WilYhswAQdz9XUh_OR78L7oBW5DffHB9Uw',
+  },
+  {
+    value: 'CFTCO_CoopFood Trần Thị Cờ',
+    label: 'CFTCO_CoopFood Trần Thị Cờ',
+    link: 'https://docs.google.com/spreadsheets/d/1xoAs1GNc4y99wthE2gJcRSvOntsI6k1L36mDsHh74L0',
+  },
+  {
+    value: 'CFTHI_CoopFood Tô Hiệu',
+    label: 'CFTHI_CoopFood Tô Hiệu',
+    link: 'https://docs.google.com/spreadsheets/d/1scQYNvLst1-a5E5qWuFExRD6Q2N9812CcmWNujdanUQ',
+  },
 ];
