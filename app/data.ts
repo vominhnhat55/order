@@ -2699,4 +2699,39 @@ export const frameworks = [
     label: 'CFTHI_CoopFood Tô Hiệu',
     link: 'https://docs.google.com/spreadsheets/d/1scQYNvLst1-a5E5qWuFExRD6Q2N9812CcmWNujdanUQ',
   },
+  {
+    value: 'CFNVK_CoopFood Nguyễn Văn Khạ 191',
+    label: 'CFNVK_CoopFood Nguyễn Văn Khạ 191',
+    link: 'https://docs.google.com/spreadsheets/d/1PnwCV590yLBrP4DKqPZ_Mreg29rNtXMSvQxfd4ag9Ak',
+  },
+  {
+    value: 'CFNT2_CoopFood Nguyễn Thiện Thuật',
+    label: 'CFNT2_CoopFood Nguyễn Thiện Thuật',
+    link: 'https://docs.google.com/spreadsheets/d/1GCgbXo7I6eayKAStDVHLYYbth8Mt8agOKmksKOQTBWA',
+  },
+  {
+    value: 'CFPTH_CoopFood Phú Thọ Hòa',
+    label: 'CFPTH_CoopFood Phú Thọ Hòa',
+    link: 'https://docs.google.com/spreadsheets/d/18kER2OpRMO01fho1UZHv3q66ZSVwUHhgw2J2pFOOavE',
+  },
+  {
+    value: 'CFNLO_CoopFood 442 Nơ Trang Long',
+    label: 'CFNLO_CoopFood 442 Nơ Trang Long',
+    link: 'https://docs.google.com/spreadsheets/d/15KxyKzu68KPPyW7bdH2NlaoBlKVUf3hsbqJg7iSEzaQ',
+  },
+  {
+    value: 'CFMMS_CoopFood CC Mimosa',
+    label: 'CFMMS_CoopFood CC Mimosa',
+    link: 'https://docs.google.com/spreadsheets/d/1xo6k6ncy64WWITqGnb2Sezh1pkMoimX_-N2sun8W6Y0',
+  },
+  {
+    value: 'CFBIP_CoopFood Bình Phú',
+    label: 'CFBIP_CoopFood Bình Phú',
+    link: 'https://docs.google.com/spreadsheets/d/1cnRwwLLO4nd0FR3cXTZ6aUjPWsoIooCnjcSfodqoRkE',
+  },
+  {
+    value: 'CFHL2_CoopFood Phạm Hữu Lầu 152',
+    label: 'CFHL2_CoopFood Phạm Hữu Lầu 152',
+    link: 'https://docs.google.com/spreadsheets/d/14Py6Quzwse7R6lFpikYDeew3-AOFSvrBKMP8E8D0oys',
+  },
 ];
